@@ -1,102 +1,48 @@
-Gabriel Silviu Mihail 
-
+Gabriel Silviu Mihail
 ---
-Newcastle West, Co. Limerick, Ireland  |   gabrielsmihail@gmail.com   |   +353 873718711 
-Ireland  |  LinkedIn: linkedin.com/in/gabriel-mihail-b5b14496/   |   GitHub: github.com/gabrielmihailtech 
-
+Newcastle West, Co. Limerick, Ireland  |   gabrielsmihail@gmail.com   |   +353 873718711
+Ireland  |  LinkedIn: linkedin.com/in/gabriel-mihail-b5b14496/   |   GitHub: github.com/gabrielmihailtech
 ---
-PROFILE 
-
---- 
-Cybersecurity student at Munster Technological University (MTU) with hands-on lab experience in SOC analysis, 
-network traffic investigation, SIEM monitoring and digital forensics. Practical work includes 50+ SOC analysis 
-exercises and 20+ Wireshark investigations, alongside Wazuh, LetsDefend and CyberDefenders labs. Experienced in 
-analysing network and endpoint evidence, identifying IOCs, reconstructing timelines and documenting security 
-findings. Seeking an entry-level SOC, Security Operations, Information Security or Blue Team role. 
-
----
-CORE SKILLS 
-
----
-Security Operations : Alert triage, log analysis, incident investigation, event correlation, IOC identification, timeline 
-reconstruction 
-Network Analysis : Wireshark, TCP/IP, DNS, HTTP/HTTPS, TLS, SMB/SMB2, Kerberos, endpoint and conversation 
-analysis 
-SIEM / Endpoint : Wazuh, Windows Security events, authentication analysis, File Integrity Monitoring, Registry 
-investigation 
-DFIR / Security : Volatility 3 fundamentals, malware traffic analysis, threat intelligence, MITRE ATT&CK, 
-CVE/CVSS analysis, CIS assessment 
-Systems : Windows 11, Linux command line, permissions, processes, services, logs, networking, basic 
-Bash and Python 
-
----
-CYBERSECURITY PROJECTS & PRACTICAL EXPERIENCE 
-
----
-SOC Analysis Portfolio | GitHub  —  50+ exercises 
-• Investigated brute force, account compromise, privilege escalation, persistence, lateral movement and multi-stage 
-activity using structured log analysis. 
-• Documented observations, assessments, confidence, timelines and MITRE ATT&CK mappings while distinguishing 
-evidence from assumptions and unknowns. 
-
-Wireshark Investigations | GitHub  —  20+ investigations 
-• Analysed DNS, TCP, HTTP, TLS, SMB and Kerberos traffic to identify hosts, users, suspicious infrastructure, 
-downloaded artifacts and IOCs. 
-• Completed malware-traffic and network-forensics investigations using endpoint statistics, conversations, protocol 
-filtering and traffic reconstruction. 
-
-LetsDefend SOC Portfolio | Hands-on SOC labs 
-• Triaged phishing, suspicious PowerShell, RDP, malicious macro, cloud-access and malware alerts; correlated 
-email, browser, endpoint and network evidence.
-
-Wazuh SOC & Endpoint Security Labs | Wazuh Cloud 
-• Monitored Windows 11 authentication and privileged-logon events, investigated FIM/Registry changes and 
-correlated security events across Wazuh modules. 
-• Reviewed detected CVEs and remediation requirements and assessed Windows 11 configuration against the CIS 
-benchmark. 
-
-CyberDefenders DFIR Portfolio | Hands-on DFIR labs 
-• Completed network, memory, threat-intelligence, OSINT and mobile-forensics investigations, including Volatility 3 
-process/network analysis and Android artefact examination. 
-
----
+PROFILE
+Cybersecurity student at Munster Technological University (MTU) with hands-on lab experience in SOC analysis, network traffic investigation, SIEM monitoring and digital forensics. Practical work includes 50+ SOC analysis exercises and 20+ Wireshark investigations, alongside Wazuh, LetsDefend and CyberDefenders labs. Experienced in analysing network and endpoint evidence, identifying IOCs, reconstructing timelines and documenting security findings. Seeking an entry-level SOC, Security Operations, Information Security or Blue Team role.
+CORE SKILLS
+Security Operations	Alert triage, log analysis, incident investigation, event correlation, IOC identification, timeline reconstruction
+Network Analysis	Wireshark, TCP/IP, DNS, HTTP/HTTPS, TLS, SMB/SMB2, Kerberos, endpoint and conversation analysis
+SIEM / Endpoint	Wazuh, Windows Security events, authentication analysis, File Integrity Monitoring, Registry investigation
+DFIR / Security	Volatility 3 fundamentals, malware traffic analysis, threat intelligence, MITRE ATT&CK, CVE/CVSS analysis, CIS assessment
+Systems	Windows 11, Linux command line, permissions, processes, services, logs, networking, basic Bash and Python
+CYBERSECURITY PROJECTS & PRACTICAL EXPERIENCE
+SOC Analysis Portfolio | GitHub  —  50+ exercises
+• Investigated brute force, account compromise, privilege escalation, persistence, lateral movement and multi-stage activity using structured log analysis.
+• Documented observations, assessments, confidence, timelines and MITRE ATT&CK mappings while distinguishing evidence from assumptions and unknowns.
+Wireshark Investigations | GitHub  —  20+ investigations
+• Analysed DNS, TCP, HTTP, TLS, SMB and Kerberos traffic to identify hosts, users, suspicious infrastructure, downloaded artifacts and IOCs.
+• Completed malware-traffic and network-forensics investigations using endpoint statistics, conversations, protocol filtering and traffic reconstruction.
+LetsDefend SOC Portfolio | Hands-on SOC labs
+• Triaged phishing, suspicious PowerShell, RDP, malicious macro, cloud-access and malware alerts; correlated email, browser, endpoint and network evidence.
+Wazuh SOC & Endpoint Security Labs | Wazuh Cloud
+• Monitored Windows 11 authentication and privileged-logon events, investigated FIM/Registry changes and correlated security events across Wazuh modules.
+• Reviewed detected CVEs and remediation requirements and assessed Windows 11 configuration against the CIS benchmark.
+CyberDefenders DFIR Portfolio | Hands-on DFIR labs
+• Completed network, memory, threat-intelligence, OSINT and mobile-forensics investigations, including Volatility 3 process/network analysis and Android artefact examination.
 EDUCATION
-
----
-Higher Certificate in Science in Information Technology and Cybersecurity (NFQ Level 6) | Munster Technological 
-University (MTU)  —  Current Student 
-Completed modules: Networking Fundamentals, Systems Scripting, Modular Programming, Cyberethics, Physical 
-Computing, Programming Fundamentals, Web Development Fundamentals, Maths for Computer Science. 
-Current modules: Linux Administration, Computer Security Principles, Routing & Switching Concepts, Computer 
-Architecture, Client-side Web Development.
-
-Master’s Degree – Control, Expertise and Food Safety in Ecological Agrotourism 
-Bioterra University, Bucharest, Romania | 2009 
-90 ECTS | Romanian Master Diploma– QQI/NARIC comparability: Irish NFQ Level 9  
-
-Diploma in First Line Management (Supervision) 
+Higher Certificate in Science in Information Technology and Cybersecurity (NFQ Level 6) | Munster Technological University (MTU)  —  Current Student
+Completed modules: Networking Fundamentals, Systems Scripting, Modular Programming, Cyberethics, Physical Computing, Programming Fundamentals, Web Development Fundamentals, Maths for Computer Science.
+Current modules: Linux Administration, Computer Security Principles, Routing & Switching Concepts, Computer Architecture, Client-side Web Development.
+Master’s Degree – Control, Expertise and Food Safety in Ecological Agrotourism
+Bioterra University, Bucharest, Romania | 2009
+90 ECTS | Romanian Master Diploma– QQI/NARIC comparability: Irish NFQ Level 9 
+Diploma in First Line Management (Supervision)
 National College of Ireland, Dublin | 2007 | Merit 
+TRAINING
+• Microsoft SC-900: Security, Compliance and Identity Fundamentals- In Progress.
+• OverTheWire Bandit — ongoing Linux and security command-line practice.
+• Additional practical training through LetsDefend, CyberDefenders and malware traffic analysis labs.
+PROFESSIONAL EXPERIENCE
+PM Admin | DesignPro Automation, Rathkeale, Co. Limerick  —  Oct 2022 - Present
+• Provide administrative support to project management and sales teams, coordinate project documentation and records, and support communication across departments.
+Bus Driver | Mannings Coaches, Co. Limerick  —  Aug 2018 - Jul 2021
+• Delivered professional customer service while maintaining transport compliance, reliability, responsibility and time management.
+LANGUAGES
+Romanian — Native     English — Advanced    Spanish- Beginner
 
----
-TRAINING 
-• Microsoft SC-900: Security, Compliance and Identity Fundamentals- In Progress. 
-• OverTheWire Bandit — ongoing Linux and security command-line practice. 
-• Additional practical training through LetsDefend, CyberDefenders and malware traffic analysis labs. 
-
----
-PROFESSIONAL EXPERIENCE 
-
----
-PM Admin | DesignPro Automation, Rathkeale, Co. Limerick  —  Oct 2022 - Present 
-• Provide administrative support to project management and sales teams, coordinate project documentation and 
-records, and support communication across departments.
-
-Bus Driver | Mannings Coaches, Co. Limerick  —  Aug 2018 - Jul 2021 
-• Delivered professional customer service while maintaining transport compliance, reliability, responsibility and time 
-management. 
-
----
-LANGUAGES 
----
-Romanian — Native     English — Advanced   Spanish- Beginner 
-Gabriel Mihail | Cybersecurity CV 
